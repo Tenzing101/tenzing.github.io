@@ -75,14 +75,10 @@ body {
 /* ===== HERO ===== */
 .hero {
   display: flex;
-  align-items: center;
+  align-items: space-between;
   padding: 80px 60px 60px 60px;
   background-color: var(--off-white);
-  min-height: 100px;
-}
-
-.hero-image {
-  margin-left: -600px;
+  min-height: 250px;
 }
 
 .hero-title {
@@ -110,7 +106,6 @@ body {
 .tags {
   display: flex;
   flex-wrap: wrap;
-  justify-items: center;
   gap: 15px;
 }
 
