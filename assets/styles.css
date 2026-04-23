@@ -75,10 +75,10 @@ body {
 /* ===== HERO ===== */
 .hero {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  padding: 80px 60px 60px 60px;
   background-color: var(--off-white);
-  min-height: 320px;
+  min-height: 100px;
 }
 
 .hero-image {
@@ -103,7 +103,6 @@ body {
 
 /* ===== SKILLS TAGS ===== */
 .skills-section {
-  padding: 24px 60px 40px;
   background-color: var(--off-white);
 }
 
