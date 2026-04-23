@@ -78,7 +78,7 @@ body {
   align-items: space-between;
   padding: 80px 60px 60px 60px;
   background-color: var(--off-white);
-  min-height: 300px;
+  min-height: 500px;
 }
 
 .hero-title {
