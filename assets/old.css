@@ -13,8 +13,8 @@
 }
 
 .headshot {
-  width: 50px;
-  height: 50px;
-  border-radius: 100%; /* makes it a circle */
+  width: 100px;
+  height: 100px;
+  border-radius: 50%; /* makes it a circle */
   padding-left: 30px;
 }
