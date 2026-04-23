@@ -12,7 +12,9 @@
     gap: 10px; 
 }
 
-.header {
-  font-size: 24px;
-  font-weight: bold;
+.headshot {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; /* makes it a circle */
+  padding-left: 30px;
 }
