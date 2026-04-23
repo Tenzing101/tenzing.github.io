@@ -75,10 +75,11 @@ body {
 /* ===== HERO ===== */
 .hero {
   display: flex;
-  align-items: space-between;
+  justify-content: space-between;
+  align-items: center;
   padding: 80px 60px 60px 60px;
   background-color: var(--off-white);
-  min-height: 500px;
+  min-height: 320px;
 }
 
 .hero-title {
