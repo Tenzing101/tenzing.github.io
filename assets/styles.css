@@ -103,13 +103,14 @@ body {
 
 /* ===== SKILLS TAGS ===== */
 .skills-section {
+  padding: 24px 60px 40px;
   background-color: var(--off-white);
 }
 
 .tags {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
+  justify-items: center;
   gap: 15px;
 }
 
