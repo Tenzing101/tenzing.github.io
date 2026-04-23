@@ -82,6 +82,10 @@ body {
   min-height: 320px;
 }
 
+.hero-image {
+  margin-left: -100px;
+}
+
 .hero-title {
   font-family: 'DM Serif Display', serif;
   font-size: clamp(2.8rem, 6vw, 5rem);
@@ -107,7 +111,8 @@ body {
 .tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  align-items: center;
+  gap: 15px;
 }
 
 .tag {
@@ -178,7 +183,7 @@ body {
 .interest-tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
+  gap: 30px;
   justify-content: center;
 }
 
