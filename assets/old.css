@@ -1,0 +1,20 @@
+.navBar {
+  background-color: #92A4CA;
+  color: black; 
+  padding: 10px 20px;
+}
+
+.navBarList {
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    gap: 10px; 
+}
+
+.headshot {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%; /* makes it a circle */
+  padding-left: 30px;
+}
